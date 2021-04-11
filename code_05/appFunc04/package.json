@@ -1,0 +1,14 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "actions-on-google": "^2.13.0",
+    "azure-function-express": "^2.0.0",
+    "express": "^4.17.1"
+  }
+}
